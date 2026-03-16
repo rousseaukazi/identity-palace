@@ -1,0 +1,9 @@
+node_modules/
+package-lock.json
+package.json
+private/private-nogate.html
+private/private-clean.html
+encrypted_out/
+encrypted_final/
+*.staticrypt.json
+.staticrypt.json
